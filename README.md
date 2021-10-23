@@ -1,6 +1,8 @@
 This project is an web application for an agency website and built in React.js.
 
-![image](https://github.com/khaildmasude808/exolot/blob/main/src/assets/img/LandingPpage.png)
+![image](https://github.com/khaildmasude808/exolot/blob/main/src/assets/img/LandingPage.png)
+
+![image](https://github.com/khaildmasude808/exolot/blob/main/src/assets/img/PricingTable.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
